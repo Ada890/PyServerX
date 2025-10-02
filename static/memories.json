@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "First solo trip",
+        "date": "2023-07-15",
+        "tags": [
+            "travel",
+            "personal"
+        ],
+        "note": "Visited Manali alone. Felt peaceful and free."
+    },
+    {
+        "id": 2,
+        "title": "Graduation Day",
+        "date": "2022-05-10",
+        "tags": [
+            "achievement",
+            "education"
+        ],
+        "note": "Graduated with honors. At last study completed."
+    },
+    {
+        "id": 3,
+        "title": "Started my first job",
+        "date": "2023-01-03",
+        "tags": [
+            "career",
+            "milestone"
+        ],
+        "note": "Joined as a software developer. Excited and nervous."
+    }
+]

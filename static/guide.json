@@ -1,0 +1,24 @@
+{
+    "world": "Dino@rmy",
+    "version": "1.0.0",
+    "title": "HTTP Server Guide",
+    "description": "A comprehensive guide to setting up and using the HTTP server.",
+    "sections": [
+        {
+            "title": "Introduction",
+            "content": "This guide provides an overview of how to set up and use the HTTP server in Dino@rmy."
+        },
+        {
+            "title": "Installation",
+            "content": "To install the HTTP server, follow these steps: ..."
+        },
+        {
+            "title": "Configuration",
+            "content": "Configure the server by editing the configuration file located at /etc/httpd/conf/httpd.conf."
+        },
+        {
+            "title": "Usage",
+            "content": "To start the server, use the command: `httpd start`."
+        }
+    ]
+}
